@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vibhatha/catkin_ws/src/publisher_node/cmake-build-debug/devel/setup.sh

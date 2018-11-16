@@ -1,0 +1,8 @@
+prefix=/home/vibhatha/catkin_ws/src/publisher_node/cmake-build-debug/devel
+
+Name: publisher
+Description: Description of publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vibhatha/catkin_ws/src/publisher_node/cmake-build-debug/devel/lib 
+Requires: 

@@ -1,0 +1,18 @@
+/opt/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vibhatha/catkin_ws/src/rosopencv
+-- Using CATKIN_DEVEL_PREFIX: /home/vibhatha/catkin_ws/src/rosopencv/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/vibhatha/catkin_ws/devel;/opt/ros/kinetic
+-- This workspace overlays: /home/vibhatha/catkin_ws/devel;/opt/ros/kinetic
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/vibhatha/catkin_ws/src/rosopencv/cmake-build-debug/test_results
+-- Found gmock sources under '/usr/src/gmock': gmock will be built
+-- Found gtest sources under '/usr/src/gmock': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.14
+-- /opt/ros/kinetic/include/opencv-3.3.1-dev/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vibhatha/catkin_ws/src/rosopencv/cmake-build-debug

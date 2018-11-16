@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vibhatha/catkin_ws/src/rosopencv/cmake-build-debug/devel/setup.sh
